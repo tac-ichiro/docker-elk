@@ -11,3 +11,9 @@ monitoring.ui.container.elasticsearch.enabled: true
 #
 elasticsearch.username: kibana_system
 elasticsearch.password: ${KIBANA_SYSTEM_PASSWORD}
+
+
+# ADD :2022年  7月  7日 木曜日 10:19:01 JST
+xpack.encryptedSavedObjects.encryptionKey: 8ad506499f744c5269a76134b8600cc2
+#xpack.reporting.encryptionKey: 7f6cd0882961e475ff7a7c38b54f54a1
+#xpack.security.encryptionKey: 2dc63b8ad856ca540ac14b54aae1b5b0
